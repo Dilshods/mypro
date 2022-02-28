@@ -15,4 +15,4 @@ $(window).ready(function() {
      })
 })
 
-// nimadurlar
+// nimadurlar kjbnaskjdcbsad;caskdjcnaisugbfiejr
