@@ -1,2 +1,2 @@
 # mypro
-nimadurlar
+nimadurlar bugun 1- dars

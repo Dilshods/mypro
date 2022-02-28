@@ -1,0 +1,23 @@
+.box{
+    height: 500px;
+    width: 100%;
+    background:blue;
+} 
+
+.show{
+    height: 50px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 0 20px 0 20px;
+}
+.hide{
+    height: 50px;
+    width: 100px;
+    background-color:yellow;
+    border-radius: 20px 0 20px 0; 
+    border-bottom: red;
+}
+button:focus {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 0 16px 0 16px ;
+}
