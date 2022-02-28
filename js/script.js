@@ -14,3 +14,5 @@ $(window).ready(function() {
         $('p').toggle(5000) 
      })
 })
+
+// nimadurlar
